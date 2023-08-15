@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f23c36fb17b4ce2a67a9109f835e0f8, type: 3}
+  m_Name: AbilityConfigAsset
+  m_EditorClassIdentifier: 
+  <AbilityModels>k__BackingField:
+  - <AbilityId>k__BackingField: 0
+    <AbilityScoreCost>k__BackingField: 0
+    <ParentsId>k__BackingField: 
+    <ChildrenId>k__BackingField: 0100000002000000040000000800000009000000
+    <IsBaseAbility>k__BackingField: 1
+  - <AbilityId>k__BackingField: 1
+    <AbilityScoreCost>k__BackingField: 1
+    <ParentsId>k__BackingField: 00000000
+    <ChildrenId>k__BackingField: 
+    <IsBaseAbility>k__BackingField: 0
+  - <AbilityId>k__BackingField: 2
+    <AbilityScoreCost>k__BackingField: 1
+    <ParentsId>k__BackingField: 00000000
+    <ChildrenId>k__BackingField: 03000000
+    <IsBaseAbility>k__BackingField: 0
+  - <AbilityId>k__BackingField: 3
+    <AbilityScoreCost>k__BackingField: 2
+    <ParentsId>k__BackingField: 02000000
+    <ChildrenId>k__BackingField: 
+    <IsBaseAbility>k__BackingField: 0
+  - <AbilityId>k__BackingField: 4
+    <AbilityScoreCost>k__BackingField: 1
+    <ParentsId>k__BackingField: 00000000
+    <ChildrenId>k__BackingField: 0500000006000000
+    <IsBaseAbility>k__BackingField: 0
+  - <AbilityId>k__BackingField: 5
+    <AbilityScoreCost>k__BackingField: 2
+    <ParentsId>k__BackingField: 04000000
+    <ChildrenId>k__BackingField: 07000000
+    <IsBaseAbility>k__BackingField: 0
+  - <AbilityId>k__BackingField: 6
+    <AbilityScoreCost>k__BackingField: 2
+    <ParentsId>k__BackingField: 04000000
+    <ChildrenId>k__BackingField: 07000000
+    <IsBaseAbility>k__BackingField: 0
+  - <AbilityId>k__BackingField: 7
+    <AbilityScoreCost>k__BackingField: 3
+    <ParentsId>k__BackingField: 0500000006000000
+    <ChildrenId>k__BackingField: 
+    <IsBaseAbility>k__BackingField: 0
+  - <AbilityId>k__BackingField: 8
+    <AbilityScoreCost>k__BackingField: 1
+    <ParentsId>k__BackingField: 00000000
+    <ChildrenId>k__BackingField: 0a000000
+    <IsBaseAbility>k__BackingField: 0
+  - <AbilityId>k__BackingField: 9
+    <AbilityScoreCost>k__BackingField: 1
+    <ParentsId>k__BackingField: 00000000
+    <ChildrenId>k__BackingField: 0a000000
+    <IsBaseAbility>k__BackingField: 0
+  - <AbilityId>k__BackingField: 10
+    <AbilityScoreCost>k__BackingField: 2
+    <ParentsId>k__BackingField: 0800000009000000
+    <ChildrenId>k__BackingField: 
+    <IsBaseAbility>k__BackingField: 0
